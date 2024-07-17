@@ -2,7 +2,7 @@
 
 I'm Zoë, a data analyst with a foundation in occupational therapy (OT). My background as an OT has provided me with the expertise to integrate qualitative observations with quantitative data analysis, enabling me to gain thorough insights when evaluating individuals for OT services. I have refined my expertise in applying these skills in data analytics.
 
-### My Porfolio:
+### My Projects:
 
 [TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/blob/main/README.md)
    
@@ -27,4 +27,8 @@ Excel |  SQL |  BigQuery | Python | Tableau | GitHub
 ### Let's Get in Touch: 
 
 I'm excited to connect with fellow data analytics professionals who are passionate about storytelling and simplifying data to make it accessible and engaging for everyone. Don't hesitate to reach out if you'd like to connect and collaborate!
+
+<a href="https://www.linkedin.com/in/zoe-walp">
+  <img src="images/linkedin.png" width="50" alt="LinkedIn">
+</a>
 
