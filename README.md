@@ -29,6 +29,6 @@ Excel |  SQL |  BigQuery | Python | Tableau | GitHub
 I'm excited to connect with fellow data analytics professionals who are passionate about storytelling and simplifying data to make it accessible and engaging for everyone. Don't hesitate to reach out if you'd like to connect and collaborate!
 
 <a href="https://www.linkedin.com/in/zoe-walp">
-  <img src="images/linkedin.png" width="50" alt="LinkedIn">
+  <img src="linkedin.png" width="50" alt="LinkedIn">
 </a>
 
