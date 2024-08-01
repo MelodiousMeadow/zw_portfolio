@@ -8,9 +8,9 @@ I'm Zoë, a data analyst with a foundation in occupational therapy (OT). My back
    
 - Analyzed more than 100k records of sample e-commerce data using SQL and Excel for a simulated company, TechTrove. Extracted key metrics including average order value, total sales, and order counts. Identified  opportunities to discontinue underperforming items and optimize the loyalty member program to  drive business success relevant to marketing and sales teams.
 
-[Pinnacle Health Insurance Analysis](https://public.tableau.com/app/profile/z.w8482/viz/PinnacleHealthInsurance/PinnacleHealthInsights)
+[Pinnacle Health Insurance Analysis](https://github.com/MelodiousMeadow/PinnacleHealthAnalysis)
 
-- This project analyzed data from Pinnacle Health Insurance to assess North Star Metrics—Cost Per Click (CPC), Click-Through Rate (CTR), impressions, and clicks to evaluate campaign success. Using SQL and Tableau, a 50k row dataset was examined, revealing that some campaigns had low CPC and high CTR, while others either received no clicks or had high CPC. Based on these findings, recommendations were made for Pinnacle Health Insurance to reconfigure their campaigns and health plans, optimizing them to increase profitability and boost financial performance.
+- This project analyzed data from Pinnacle Health Insurance as a case study to assess North Star Metrics—Cost Per Click (CPC), Click-Through Rate (CTR), impressions, and clicks in order to evaluate campaign success. Using SQL and Tableau, a 50k row dataset was examined, revealing that some campaigns had low CPC and high CTR, while others either received no clicks or had high CPC. Based on these findings, recommendations were made for Pinnacle Health Insurance to reconfigure their campaigns and health plans, optimizing them to increase profitability and boost financial performance.
 
 [Student Performance Analysis](https://github.com/MelodiousMeadow/Student_Performance_Analysis)
 
