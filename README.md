@@ -1,6 +1,6 @@
 ## Greetings World !!
 
-I'm Zoë, a data analyst with a foundation in occupational therapy (OT). My background as an OT has provided me with the expertise to integrate qualitative observations with quantitative data analysis, enabling me to gain thorough insights when evaluating individuals for OT services. I have refined my expertise in applying these skills in data analytics.
+As a data analyst, I specialize in integrating qualitative observations with quantitative analysis to gain comprehensive insights and drive data-driven decisions.
 
 ### My Projects:
 
@@ -24,7 +24,7 @@ I'm Zoë, a data analyst with a foundation in occupational therapy (OT). My back
 - Managed caseloads of over 50 students, adept in goal setting, and proficient in administering standardized assessments to derive actionable insights for individual qualifications.
 - Outside of analyzing and creating data-driven visualizations, you can find me running near the bay or cooking dinner with my friends.
 
-### Technical Tools (always open to improve and grow):
+### Technical Tools:
 
 Excel |  SQL |  BigQuery | Python | Tableau | GitHub
 
