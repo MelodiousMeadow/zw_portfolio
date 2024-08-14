@@ -4,7 +4,7 @@ As a data analyst, I specialize in integrating qualitative observations with qua
 
 ### My Projects:
 
-[TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis/blob/main/README.md)
+[TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)
    
 - Analyzed more than 100k records of sample e-commerce data using SQL and Excel for a simulated company, TechTrove. Extracted key metrics including average order value, total sales, and order counts. Identified  opportunities to discontinue underperforming items and optimize the loyalty member program to  drive business success relevant to marketing and sales teams.
 
