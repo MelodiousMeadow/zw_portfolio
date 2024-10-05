@@ -39,7 +39,7 @@ As a data analyst, I specialize in integrating qualitative observations with qua
 
 ### Technical Tools:
 
-Excel |  SQL |  BigQuery | Python | Tableau | GitHub
+Excel |  SQL |  BigQuery | Python | Tableau | GitHub | Google Analytics
 
 ### Let's Get in Touch: 
 
