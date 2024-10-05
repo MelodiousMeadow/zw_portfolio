@@ -1,6 +1,6 @@
 ## My Data Story: A Portfolio of Projects and Impact
 
-As a data analyst, I specialize in integrating qualitative observations with quantitative analysis to gain comprehensive insights and drive data-driven decisions.
+As a data analyst, I specialize in blending qualitative observations with quantitative analysis to uncover deeper insights and fuel data-driven strategies that lead to impactful decisions.
 
 ### My Projects:
 
