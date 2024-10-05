@@ -1,4 +1,4 @@
-## Welcome to My Data Journey
+## My Portfolio: Showcasing Skills, Projects, and Impact
 
 As a data analyst, I specialize in integrating qualitative observations with quantitative analysis to gain comprehensive insights and drive data-driven decisions.
 
