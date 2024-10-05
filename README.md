@@ -13,15 +13,21 @@ As a data analyst, I specialize in integrating qualitative observations with qua
 
 [TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)
    
-- Analyzed more than 100k records of sample eCommerce data using SQL and Excel for a simulated company, TechTrove. Extracted key metrics including average order value, total sales, and order counts. Identified  opportunities to discontinue underperforming items and optimize the loyalty member program to  drive business success relevant to marketing and sales teams.
+- Analyzed 100k+ records of sample eCommerce data using SQL and Excel for a simulated company, TechTrove.
+- Extracted key metrics including average order value, total sales, and order counts to assess business performance.
+- Identified opportunities to discontinue underperforming items and optimize the loyalty member program, driving business success for marketing and sales teams.
 
 [Pinnacle Health Insurance Analysis](https://github.com/MelodiousMeadow/PinnacleHealthAnalysis)
 
-- This project analyzed data from Pinnacle Health Insurance as a case study to assess North Star Metrics—Cost Per Click (CPC), Click-Through Rate (CTR), impressions, and clicks in order to evaluate campaign success. Using SQL and Tableau, a 50k row dataset was examined, revealing that some campaigns had low CPC and high CTR, while others either received no clicks or had high CPC. Based on these findings, recommendations were made for Pinnacle Health Insurance to reconfigure their campaigns and health plans, optimizing them to increase profitability and boost financial performance.
+- Analyzed 50k-row dataset from Pinnacle Health Insurance to assess North Star Metrics—Cost Per Click (CPC), Click-Through Rate (CTR), impressions, and clicks for evaluating campaign success.
+- Utilized SQL and Tableau to identify trends, revealing campaigns with low CPC and high CTR, while others had no clicks or high CPC.
+- Recommended reconfiguring campaigns and health plans, optimizing them to increase profitability and boost financial performance for Pinnacle Health Insurance.
 
 [Student Performance Analysis](https://github.com/MelodiousMeadow/Student_Performance_Analysis)
 
-- Analyzed student performance in Portugal. Students within a 15-minute drive of the school performed better, and students who drank during the week had lower grades. Parental employment in healthcare or teaching correlated with higher student achievement (>12.5 on a 20-point scale). Schools can leverage these findings to enhance grades by optimizing transportation and cultivating supportive family and school environments.
+- Using Python nalyzed student performance data in Portugal, finding that students within a 15-minute drive of the school performed better academically.
+- Identified correlations between alcohol consumption during the week and lower grades. Additionally, students with parents employed in healthcare or teaching showed higher academic achievement, scoring above 12.5 on a 20-point scale.
+- Provided recommendations for schools to enhance academic performance by optimizing transportation access and fostering supportive family and school environments.
 
 
 ### About Me:
