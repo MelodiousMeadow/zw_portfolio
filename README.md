@@ -1,6 +1,6 @@
 ## Data Analyst Portfolio
 
-Hello and welcome, I'm Zoë! As a data analyst, I specialize in blending qualitative observations with quantitative analysis to uncover deeper insights and fuel data-driven strategies that lead to impactful decisions.
+Hello and welcome, I'm Zoë!  As a data analyst, I specialize in blending qualitative observations with quantitative analysis to uncover deeper insights and fuel data-driven strategies that lead to impactful decisions.
 
 ### My Projects:
 
