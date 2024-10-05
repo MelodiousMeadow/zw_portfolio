@@ -1,6 +1,6 @@
 ## Data Insights Portfolio
 
-Hi there, I'm Zoë! As a data analyst, I combine qualitative insights with quantitative analysis to reveal valuable insights and drive data-informed strategies that lead to impactful decisions.
+Hi there, I'm Zoë!  As a data analyst, I combine qualitative insights with quantitative analysis to reveal valuable insights and drive data-informed strategies that lead to impactful decisions.
 
 ### My Projects:
 
