@@ -1,4 +1,4 @@
-## Greetings World !!
+## Welcome to My Data Journey
 
 As a data analyst, I specialize in integrating qualitative observations with quantitative analysis to gain comprehensive insights and drive data-driven decisions.
 
