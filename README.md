@@ -32,7 +32,7 @@ As a data analyst, I specialize in integrating qualitative observations with qua
 
 ### About Me:
 
-- As a data analyst, I leverage my background as an OT to extract meaningful insights from both qualitative and quantitative contexts.
+- In my role as a data analyst, I leverage my background as an OT to extract meaningful insights from both qualitative and quantitative contexts.
 - I excel as a collaborative team player adept at problem solving and skilled in engaging with diverse stakeholders.
 - Managed caseloads of over 50 students, adept in goal setting, and proficient in administering standardized assessments to derive actionable insights for individual qualifications.
 - Outside of analyzing and creating data-driven visualizations, you can find me running near the bay or cooking dinner with my friends.
