@@ -1,4 +1,4 @@
-## My Portfolio: Showcasing Skills, Projects, and Impact
+## My Data Story: A Portfolio of Projects and Impact
 
 As a data analyst, I specialize in integrating qualitative observations with quantitative analysis to gain comprehensive insights and drive data-driven decisions.
 
