@@ -4,9 +4,12 @@ As a data analyst, I specialize in integrating qualitative observations with qua
 
 ### My Projects:
 
-[Fitness Hacks for Life / Volunteer Data Analysis (Catchafire)](https://github.com/MelodiousMeadow/FitnessHacksAnalysis)
+[Fitness Hacks for Life Campaign Analysis](https://github.com/MelodiousMeadow/FitnessHacksAnalysis)
 
-- Volunteered for Fitness Hacks for Life, a mental health wellness eCommerce platform, to analyze Google Analytics and Google Ads data over a three-month period. Collaborated closely with stakeholders seeking to understand why products such as the Mind Journal were not selling. Analyzed factors including ad campaign performance, device usage across different regions, and overall website engagement. Identified issues like low visibility in targeted ads and limited regional outreach, ultimately aiming to optimize marketing strategies for greater impact.
+- Volunteered through Catchafire for Fitness Hacks for Life, a mental health wellness eCommerce platform, to analyze Google Analytics and Google Ads data over a three-month period.
+- Collaborated closely with stakeholders to understand why products like the Mind Journal were underperforming in sales, presenting findings through a Tableau dashboard.
+- Analyzed key factors such as ad campaign performance, device usage across different regions, and overall website engagement using SQL queries to pull detailed data for visual reporting.
+- Identified issues like low visibility in targeted ads and limited regional outreach, recommending strategies to optimize marketing efforts for greater impact.
 
 [TechTrove eCommerce Analysis](https://github.com/MelodiousMeadow/TechTrove_eCommerce_Analysis)
    
