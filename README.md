@@ -7,11 +7,8 @@ Hi there, I'm Zoë!  As a data analyst, I combine qualitative insights with quan
 [Business-Focused Airbnb Analysis and Pricing Strategy](https://github.com/MelodiousMeadow/airbnb)
 
 - Conducted a comprehensive analysis of Airbnb listings in New York City (2009–2025) using SQL, Python, and Tableau, exploring availability, pricing, guest reviews, and neighborhood dynamics.
-
 - Leveraged advanced predictive modeling with CatBoost regression to estimate listing prices based on key features such as location, host responsiveness, and availability, adding a powerful forecasting dimension to traditional data analysis.
-
 - Combined sentiment analysis of guest reviews with pricing prediction to uncover nuanced insights on factors influencing guest satisfaction and market value, providing a richer understanding of Airbnb performance drivers.
-
 - Delivered actionable, forward-looking insights through interactive Tableau dashboards, enabling hosts and stakeholders to optimize pricing strategies, enhance guest experience, and respond proactively to seasonal and market trends.
 
 [Fitness Hacks for Life Campaign Analysis](https://github.com/MelodiousMeadow/FitnessHacksAnalysis)
