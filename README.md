@@ -4,13 +4,6 @@ Hi there, I'm Zoë!  As a data analyst, I combine qualitative insights with quan
 
 ### My Projects:
 
-[Business-Focused Airbnb Analysis and Pricing Strategy](https://github.com/MelodiousMeadow/airbnb)
-
-- Conducted a comprehensive analysis of Airbnb listings in New York City (2009–2025) using SQL, Python, and Tableau, exploring availability, pricing, guest reviews, and neighborhood dynamics.
-- Leveraged advanced predictive modeling with CatBoost regression to estimate listing prices based on key features such as location, host responsiveness, and availability, adding a powerful forecasting dimension to traditional data analysis.
-- Combined sentiment analysis of guest reviews with pricing prediction to uncover nuanced insights on factors influencing guest satisfaction and market value, providing a richer understanding of Airbnb performance drivers.
-- Delivered actionable, forward-looking insights through interactive Tableau dashboards, enabling hosts and stakeholders to optimize pricing strategies, enhance guest experience, and respond proactively to seasonal and market trends.
-
 [Fitness Hacks for Life Campaign Analysis](https://github.com/MelodiousMeadow/FitnessHacksAnalysis)
 
 - Volunteered through Catchafire for Fitness Hacks for Life, a mental health wellness eCommerce platform, to analyze Google Analytics and Google Ads data over a three-month period.
@@ -29,6 +22,13 @@ Hi there, I'm Zoë!  As a data analyst, I combine qualitative insights with quan
 - Analyzed 50k-row dataset from Pinnacle Health Insurance to assess North Star Metrics—Cost Per Click (CPC), Click-Through Rate (CTR), impressions, and clicks for evaluating campaign success.
 - Utilized SQL and Tableau to identify trends, revealing campaigns with low CPC and high CTR, while others had no clicks or high CPC.
 - Recommended reconfiguring campaigns and health plans, optimizing them to increase profitability and boost financial performance for Pinnacle Health Insurance.
+
+[Business-Focused Airbnb Analysis and Pricing Strategy](https://github.com/MelodiousMeadow/airbnb)
+
+- Conducted a comprehensive analysis of Airbnb listings in New York City (2009–2025) using SQL, Python, and Tableau, exploring availability, pricing, guest reviews, and neighborhood dynamics.
+- Leveraged advanced predictive modeling with CatBoost regression to estimate listing prices based on key features such as location, host responsiveness, and availability, adding a powerful forecasting dimension to traditional data analysis.
+- Combined sentiment analysis of guest reviews with pricing prediction to uncover nuanced insights on factors influencing guest satisfaction and market value, providing a richer understanding of Airbnb performance drivers.
+- Delivered actionable, forward-looking insights through interactive Tableau dashboards, enabling hosts and stakeholders to optimize pricing strategies, enhance guest experience, and respond proactively to seasonal and market trends.
 
 [Student Performance Analysis](https://github.com/MelodiousMeadow/Student_Performance_Analysis)
 
